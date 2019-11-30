@@ -1,1 +1,1 @@
-Nida is a repository for showing the bare minimuma of github and how to manuver, function, etc.
+This is a test text file for GitHub
